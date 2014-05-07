@@ -3,30 +3,10 @@
     "FromRepo": "github.com/sgtest/javascript-nodejs-xrefs-0",
     "FromUnit": ".",
     "FromUnitType": "CommonJSPackage",
-    "ToRepo": "github.com/felixge/node-mysql",
-    "ToUnit": ".",
-    "ToUnitType": "CommonJSPackage",
-    "ToVersionString": "mysql@2.2.0",
-    "ToRevSpec": ""
-  },
-  {
-    "FromRepo": "github.com/sgtest/javascript-nodejs-xrefs-0",
-    "FromUnit": ".",
-    "FromUnitType": "CommonJSPackage",
     "ToRepo": "github.com/brianc/node-postgres",
     "ToUnit": ".",
     "ToUnitType": "CommonJSPackage",
     "ToVersionString": "pg@3.0.3",
-    "ToRevSpec": ""
-  },
-  {
-    "FromRepo": "github.com/sgtest/javascript-nodejs-xrefs-0",
-    "FromUnit": ".",
-    "FromUnitType": "CommonJSPackage",
-    "ToRepo": "github.com/jashkenas/underscore",
-    "ToUnit": ".",
-    "ToUnitType": "CommonJSPackage",
-    "ToVersionString": "underscore@1.6.0",
     "ToRevSpec": ""
   },
   {
@@ -43,10 +23,10 @@
     "FromRepo": "github.com/sgtest/javascript-nodejs-xrefs-0",
     "FromUnit": ".",
     "FromUnitType": "CommonJSPackage",
-    "ToRepo": "github.com/lodash/lodash",
+    "ToRepo": "github.com/felixge/node-mysql",
     "ToUnit": ".",
     "ToUnitType": "CommonJSPackage",
-    "ToVersionString": "lodash@2.4.1",
+    "ToVersionString": "mysql@2.2.0",
     "ToRevSpec": ""
   },
   {
@@ -77,6 +57,26 @@
     "ToUnit": ".",
     "ToUnitType": "CommonJSPackage",
     "ToVersionString": "read-package-json@1.1.9",
+    "ToRevSpec": ""
+  },
+  {
+    "FromRepo": "github.com/sgtest/javascript-nodejs-xrefs-0",
+    "FromUnit": ".",
+    "FromUnitType": "CommonJSPackage",
+    "ToRepo": "github.com/jashkenas/underscore",
+    "ToUnit": ".",
+    "ToUnitType": "CommonJSPackage",
+    "ToVersionString": "underscore@1.6.0",
+    "ToRevSpec": ""
+  },
+  {
+    "FromRepo": "github.com/sgtest/javascript-nodejs-xrefs-0",
+    "FromUnit": ".",
+    "FromUnitType": "CommonJSPackage",
+    "ToRepo": "github.com/lodash/lodash",
+    "ToUnit": ".",
+    "ToUnitType": "CommonJSPackage",
+    "ToVersionString": "lodash@2.4.1",
     "ToRevSpec": ""
   }
 ]
